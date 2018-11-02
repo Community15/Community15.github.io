@@ -11,14 +11,14 @@
 }
 
 .top-header {
-    padding: 30px;
+    padding: 20px;
 
 }
 
 .header-text {
     padding-left: 15px;
     margin-bottom: 0px;
-  font-family: "Helvetica";
+    font-family: "Helvetica";
     font-size: 40px;
     color:#006AC2;
 }
@@ -29,5 +29,16 @@
 
 .header-content{
     display:flex;
-    justify-content: right;
+    justify-content: flex-end;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    margin:16px;
+    color:#006AC2;
+}
+
+.body-container {
+    padding-top: 15px;
 }
