@@ -29,7 +29,7 @@
 
 .header-content{
     display:flex;
-    justify-content: center;
+    justify-content: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
 }
@@ -41,4 +41,11 @@
 
 .body-container {
     padding-top: 15px;
+}
+
+.project_container {
+}
+
+.h1 {
+
 }
