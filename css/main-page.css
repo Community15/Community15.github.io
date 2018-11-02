@@ -1,0 +1,33 @@
+
+.rbc-image{
+    height:auto;
+    width:128px;
+    vertical-align: middle;
+    border-right: 3px solid #006AC2;
+}
+.logo {
+    display:flex;
+    align-items: center;
+}
+
+.top-header {
+    padding: 30px;
+
+}
+
+.header-text {
+    padding-left: 15px;
+    margin-bottom: 0px;
+  font-family: "Helvetica";
+    font-size: 40px;
+    color:#006AC2;
+}
+
+.navbar {
+
+}
+
+.header-content{
+    display:flex;
+    justify-content: right;
+}
